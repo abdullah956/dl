@@ -2,9 +2,6 @@
 
 Here’s a consolidated set of instructions for running locally:
 
-```markdown
-# How to Run Locally
-
 1. **Create a Virtual Environment:**
 
    ```bash
